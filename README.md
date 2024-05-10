@@ -18,6 +18,7 @@ Olá! 👋 Sou **Luiz Victorino**, um profissional em transição de carreira pa
     <a href="https://github.com/luizvictorino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizvictorino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvictorino&layout=compact&langs_count16&theme=onedark">
+<!--         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizvictorino&theme=Gradiente&show_icons=true)"> -->
 </div>
 
 # Habilidades
