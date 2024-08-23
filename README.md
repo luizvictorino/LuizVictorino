@@ -54,10 +54,13 @@ Olá! 👋 Sou **Luiz Victorino**, um profissional em transição de carreira pa
 
     Aqui estão alguns projetos nos quais realizei durante meu aprendizado:
 
-1. **Login de autenticação**: [Projeto Etec - Login de autenticação com firebase](https://github.com/luizvictorino/loginautenticacao)
-2. **Exercícios de Arrays C#**: [Exercícios arrays - Aula de DS - Etec](https://github.com/luizvictorino/Array_Etec_Albert_Einstein)
-3. **Cafeteria Manhattan**: [Projeto DevMedia Front-End](https://github.com/luizvictorino/cafeteria-manhattan)
-3. **Pet-shop Boutique**: [Projeto DevMedia Front-End](https://github.com/luizvictorino/Pet-shop-boutique)
+1. **Login de autenticação**: [Login de autenticação com firebase - Etec Albert Einstein](https://github.com/luizvictorino/loginautenticacao)
+2. **ONG SJPA**: [ONG SJPA - Escola DNC](https://luizvictorino.github.io/ONG-SJPA/)
+3. **Cafeteria Manhattan**: [Cafeteria Manhattan - DevMedia](https://github.com/luizvictorino/cafeteria-manhattan)
+4. **Pet-shop Boutique**: [Pet-shop Boutique - DevMedia](https://github.com/luizvictorino/Pet-shop-boutique)
+5. **Bootcamp-DNC**: [Bootcamp-DNC - Escola DNC](https://luizvictorino.github.io/bootcamp-DNC/)
+6. **Landing-Page DNC**: [Landing-Page DNC - Escola DNC](https://github.com/luizvictorino/landing-page-DNC)
+7. **Portifólio**: [Portifólio - Escola DNC](https://github.com/luizvictorino/portfolio)
 
 
 
