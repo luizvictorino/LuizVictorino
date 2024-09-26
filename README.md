@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/[luizvictorino])
 
 Olá! 👋 Sou **Luiz Victorino**, um profissional em transição de carreira para a área de tecnologia, atualmente trabalhando como Encarregado de Logística na SATO Brasil. Sou **Bacharel em Administração** de Empresas e também em conclusão do curso **Técnico em Desenvolvimento de Sistemas**. Estou participando do **Bootcamp Santander 2024 - Fundamentos de IA para Devs**. Meu interesse pela tecnologia foi despertado enquanto aprendia Excel VBA e desde então estou sempre em busca de aprender e explorar novas soluções para problemas.
 
